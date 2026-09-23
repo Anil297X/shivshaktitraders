@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 export const metadata: Metadata = {
   title: 'Shiv Shakti Traders — Mattresses for Every Indian Home',
   description:
-    'Shop orthopedic, memory foam, spring, latex and coir mattresses at prices made for Indian households. Free delivery, 100-night trial and 10-year warranty.',
+    'Shop orthopedic, memory foam, spring, latex and coir mattresses at prices made for Indian households. Free delivery, 30-night trial and 10-year warranty.',
   generator: 'v0.app',
 }
 

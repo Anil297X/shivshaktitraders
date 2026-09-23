@@ -104,7 +104,7 @@ export default async function ProductDetailPage({
           <div className="mt-6 grid grid-cols-3 gap-3 border-t border-border pt-6 text-center">
             {[
               { icon: Truck, label: 'Free delivery' },
-              { icon: RotateCcw, label: '100-night trial' },
+              { icon: RotateCcw, label: '30-night trial' },
               { icon: ShieldCheck, label: 'Warranty' },
             ].map((item) => (
               <div key={item.label} className="flex flex-col items-center gap-1.5">

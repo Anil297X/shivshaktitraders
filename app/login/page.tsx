@@ -43,7 +43,7 @@ export default function LoginPage() {
             Welcome back to better sleep.
           </h2>
           <p className="mt-2 text-primary-foreground/85">
-            Sign in to track orders, manage your 100-night trial and check out
+            Sign in to track orders, manage your 30-night trial and check out
             faster.
           </p>
         </div>

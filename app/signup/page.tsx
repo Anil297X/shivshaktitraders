@@ -135,7 +135,7 @@ export default function SignupPage() {
             Perks that come with your account.
           </h2>
           <ul className="mt-4 space-y-2 text-primary-foreground/90">
-            {['100-night risk-free trial', 'Exclusive member discounts', 'Order tracking & fast checkout'].map((perk) => (
+            {['30-night risk-free trial', 'Exclusive member discounts', 'Order tracking & fast checkout'].map((perk) => (
               <li key={perk} className="flex items-center gap-2">
                 <Check className="size-5" /> {perk}
               </li>

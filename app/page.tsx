@@ -32,7 +32,7 @@ export default function HomePage() {
             </h1>
             <p className="mt-4 max-w-md text-lg text-muted-foreground text-pretty">
               Premium orthopedic, memory foam and spring mattresses starting at
-              just ₹8,999. Made for Indian homes, backed by a 100-night trial.
+              just ₹8,999. Made for Indian homes, backed by a 30-night trial.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link
@@ -52,7 +52,7 @@ export default function HomePage() {
               <span className="flex items-center gap-1.5">
                 <Star className="size-4 fill-accent text-accent" /> 4.6/5 from 10,000+ homes
               </span>
-              <span className="hidden sm:inline">100-night trial</span>
+              <span className="hidden sm:inline">30-night trial</span>
             </div>
           </div>
 
@@ -128,7 +128,7 @@ export default function HomePage() {
       <section className="mx-auto max-w-7xl px-4 pb-4 sm:px-6 lg:px-8">
         <div className="overflow-hidden rounded-2xl bg-primary px-6 py-10 text-center text-primary-foreground sm:px-12 sm:py-14">
           <h2 className="text-2xl font-bold text-balance sm:text-3xl">
-            Try any mattress risk-free for 100 nights
+              Try any mattress risk-free for 30 nights
           </h2>
           <p className="mx-auto mt-3 max-w-xl text-primary-foreground/80 text-pretty">
             Not the perfect fit? Return it for a full refund. That&apos;s how
