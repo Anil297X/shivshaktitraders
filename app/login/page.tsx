@@ -56,7 +56,7 @@ export default function LoginPage() {
               <Moon className="size-5" />
             </span>
             <span className="text-lg font-bold text-foreground">
-              Dream<span className="text-primary">Rest</span>
+              Shiv Shakti <span className="text-primary">Traders</span>
             </span>
           </Link>
 
@@ -114,7 +114,7 @@ export default function LoginPage() {
           </form>
 
           <p className="mt-6 text-center text-sm text-muted-foreground">
-            New to DreamRest?{' '}
+            New to Shiv Shakti Traders?{' '}
             <Link href="/signup" className="font-medium text-primary hover:underline">
               Create an account
             </Link>

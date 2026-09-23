@@ -29,7 +29,7 @@ export function SiteHeader() {
             <Moon className="size-5" />
           </span>
           <span className="text-lg font-bold tracking-tight text-foreground">
-            Dream<span className="text-primary">Rest</span>
+            Shiv Shakti <span className="text-primary">Traders</span>
           </span>
         </Link>
 

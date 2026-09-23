@@ -42,7 +42,7 @@ export function SiteFooter() {
           </div>
 
           <div>
-            <h3 className="text-sm font-semibold text-foreground">Why DreamRest</h3>
+            <h3 className="text-sm font-semibold text-foreground">Why Shiv Shakti Traders</h3>
             <ul className="mt-3 space-y-3 text-sm text-muted-foreground">
               <li className="flex items-center gap-2"><Truck className="size-4 text-primary" /> Free delivery across India</li>
               <li className="flex items-center gap-2"><ShieldCheck className="size-4 text-primary" /> Up to 10-year warranty</li>
@@ -52,7 +52,7 @@ export function SiteFooter() {
         </div>
 
         <div className="mt-10 border-t border-border pt-6 text-center text-sm text-muted-foreground">
-          {'© '}{new Date().getFullYear()} DreamRest India. All rights reserved. Prices inclusive of GST.
+          {'© '}{new Date().getFullYear()} Shiv Shakti Traders. All rights reserved. Prices inclusive of GST.
         </div>
       </div>
     </footer>

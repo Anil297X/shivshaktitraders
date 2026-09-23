@@ -59,7 +59,7 @@ export default function HomePage() {
           <div className="relative aspect-[4/3] overflow-hidden rounded-2xl shadow-xl">
             <Image
               src="/images/hero-bedroom.png"
-              alt="Cozy bedroom with a DreamRest mattress"
+              alt="Cozy bedroom with a Shiv Shakti Traders mattress"
               fill
               priority
               sizes="(max-width: 1024px) 100vw, 50vw"

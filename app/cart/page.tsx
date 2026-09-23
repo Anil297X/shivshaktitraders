@@ -24,7 +24,7 @@ export default function CartPage() {
         </span>
         <h1 className="mt-6 text-2xl font-bold text-foreground">Order placed!</h1>
         <p className="mt-2 text-muted-foreground">
-          Thank you for shopping with DreamRest. Your mattress is on its way with
+              Thank you for shopping with Shiv Shakti Traders. Your mattress is on its way with
           free delivery.
         </p>
         <Link href="/products" className={cn(buttonVariants(), 'mt-6 h-11 px-6')}>
